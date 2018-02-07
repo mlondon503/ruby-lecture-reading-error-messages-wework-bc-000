@@ -1,3 +1,3 @@
 1 + 1
 
-puts 1.String + "is the loneliest number"
+puts String(1) + "is the loneliest number"
